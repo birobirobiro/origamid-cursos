@@ -10,3 +10,4 @@
 <p>:white_large_square: TypeScript para Iniciantes</p>
 <p>:white_large_square: React com TypeScript</p>
 <p>:white_large_square: Redux com React</p>
+<p>:white_large_square: Next.js</p>
