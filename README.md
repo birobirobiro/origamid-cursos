@@ -5,7 +5,7 @@
 <p>My progress Front-end studies at Origamid.</p>
 <br>
 
-<p>:white_square_button: JavaScript Completo ES6 :construction:</p>
+<p>:white_square_button: JavaScript Completo ES6 :construction:</p><p>:white_square_button: JavaScript Antes do Framework :construction:</p>
 <p>:white_large_square: React Completo</p>
 <p>:white_large_square: TypeScript para Iniciantes</p>
 <p>:white_large_square: React com TypeScript</p>
